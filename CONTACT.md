@@ -3,4 +3,4 @@ Steam: https://steamcommunity.com/id/dragonfireofficial0/
 
 Telegram: @dragonfire0159
 
-Discord: ДраконОгонь 🐲#8392
+Discord: DragonFire#4054

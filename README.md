@@ -14,3 +14,7 @@ My projects:
 [DragonCoreGD](https://github.com/DragonFire1230/DragonCoreGD)
 
 [My projects (In trash and now open source)](https://github.com/DragonFire1230/dragonfire-source-code-archive)
+
+## Contact
+
+[![Discord](https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg)](https://discord.gg/pVy83J96Xx)

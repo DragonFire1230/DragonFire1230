@@ -17,7 +17,7 @@ My projects:
 
 ## Contact
 
-[![Discord](https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg)](https://discord.gg/pVy83J96Xx)
+[![Discord](https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg)](https://discord.com/users/982395358841827379)
 
 <!---
 [![Telegram](Logo.svg)](https://t.me/dragonfire0159)

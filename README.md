@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm developer
-
-On JS (NodeJS), Python
+I'm Python & JavaScript developer
 
 My stats:
 
@@ -11,14 +9,13 @@ My stats:
 
 My projects:
 
-[DragonCoreGD](https://github.com/DragonFire1230/DragonCoreGD)
+[DragonCoreGD (Closed)](https://github.com/DragonFire1230/DragonCoreGD)
 
 [My projects (In trash and now open source)](https://github.com/DragonFire1230/dragonfire-source-code-archive)
 
 ## Contact
 
+### My dead Discord
 [![Discord](https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg)](https://discord.com/users/982395358841827379)
 
-<!---
 [![Telegram](Logo.svg)](https://t.me/dragonfire0159)
--->

@@ -14,6 +14,22 @@ https://user-images.githubusercontent.com/64083584/213920285-5c94ed7e-e817-4fed-
 
 https://user-images.githubusercontent.com/64083584/213920231-7f50fbc2-cc48-4131-b2d8-a693660186e4.png
 
+# Какой у тебя компьютер и телефон, и какая у тебя ОС стоит?
+Комп 2019:
+ - CPU: AMD A8-7680 3.6 GHz
+ - GPU: Palit GT 1030
+ - RAM: 8 GB DDR3
+ - BASE: Asus A68HM-K
+ - OS: Windows 8.1 Embedded Industry Pro
+
+Комп 2021-2022:
+ - CPU: Intel Core i3-10100f
+ - GPU: Gigabyte RTX 3060Ti
+ - RAM: 16 GB DDR4
+ - BASE: Asus H410M-K
+ - OS: Windows 11/Ubuntu 22.04
+
+
 # Ты смотришь аниме, и ты фурри или нет?
 Аниме - Нет, не смотрю
 

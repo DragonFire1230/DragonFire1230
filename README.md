@@ -15,7 +15,8 @@ My projects:
 
 ## Contact
 
-### My dead Discord
-[![Discord](https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg)](https://discord.com/users/982395358841827379)
+Discord is removed, because this is s@@t
+
+Use Telegram or Matrix
 
 [![Telegram](Logo.svg)](https://t.me/dragonfire0159)

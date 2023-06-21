@@ -11,7 +11,7 @@ My projects:
 
 [DragonCoreGD (Closed)](https://github.com/DragonFire1230/DragonCoreGD)
 
-[DragoncoreGD v2 (Also closed)](https://github.com/DragonFire1230/DragoncoreGD-v2)
+[OpenGDPS](https://github.com/DragonFire1230/DragoncoreGD-v2)
 
 [OpenJourney](https://github.com/StableDiffusionPipeline)
 
